@@ -78,7 +78,7 @@ Repository ini berisi analisis eksploratif (EDA) terhadap dataset permintaan per
 
 - Insight ini berguna untuk optimasi logistik, pemeliharaan, atau strategi pemasaran Ola.
 
-## Rekomendasi untuk Analisis Lanjutan:
+## ⭐ Rekomendasi untuk Analisis Lanjutan:
 - Eksplorasi korelasi antar variabel menggunakan heatmap atau analisis regresi.
 
 - Visualisasi pola penggunaan harian/mingguan untuk identifikasi peak hours.
