@@ -93,4 +93,4 @@ Repository ini berisi analisis eksploratif (EDA) terhadap dataset permintaan per
 - ✉️ Email: [arfanastadi46@gmail.com](mailto:arfanastadi46@gmail.com)  
 - 💼 LinkedIn: [Kunjungi Profil](https://www.linkedin.com/in/arfan-astadi-3ab480301/)  
 - 👨💻 GitHub: [@username](https://github.com/nownunk55)  
-- 🌐 Portfolio: [not readt yet](https://yourwebsite.com)  
+- 🌐 Portfolio: [not readt yet](https://github.com/nownunk55/EDA-ola/)  
