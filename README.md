@@ -1,6 +1,6 @@
 # 🚲 Analisis EDA Permintaan Sewa Sepeda motor Ola
 
-![Bike Sharing](https://img.freepik.com/free-vector/bike-sharing-concept_23-2148614939.jpg?w=1380&t=st=1717925859~exp=1717926459~hmac=6b6f3e5b3b3e0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b)
+![Bike Sharing](https://github.com/nownunk55/EDA-ola/blob/main/pictures/dataset-cover.png)
 
 Repository ini berisi analisis eksploratif (EDA) terhadap dataset permintaan perjalanan sepeda Ola menggunakan Jupyter Notebook. Analisis mencakup pola penggunaan dan faktor yang mempengaruhi permintaan layanan.
 
