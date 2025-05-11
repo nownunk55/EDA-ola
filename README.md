@@ -86,3 +86,11 @@ Repository ini berisi analisis eksploratif (EDA) terhadap dataset permintaan per
 - Klasifikasi pengguna (casual vs. registered) berdasarkan perilaku penggunaan.
 
 - Prediksi jumlah pengguna dengan model machine learning (contoh: Random Forest, ARIMA untuk time series).
+
+## 📬 Kontak
+
+**Arfan Astadi**  
+- ✉️ Email: [arfanastadi46@gmail.com](mailto:arfanastadi46@gmail.com)  
+- 💼 LinkedIn: [Kunjungi Profil](https://www.linkedin.com/in/arfan-astadi-3ab480301/)  
+- 👨💻 GitHub: [@username](https://github.com/nownunk55)  
+- 🌐 Portfolio: [not readt yet](https://yourwebsite.com)  
